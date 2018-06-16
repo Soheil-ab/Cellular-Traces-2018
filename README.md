@@ -7,13 +7,11 @@ Installation
 ============
 
 Get the traces:
-    ```sh
+
     cd ~
     git clone https://github.com/Soheil-ab/Cellular-Traces-2018.git
-    ```
 
 Now simply copy all this repository to mahimahi's shared trace folder:
 
-    ```sh
     cp ~/Cellular*/* /usr/local/share/mahimahi/traces/
-    ```  
+
